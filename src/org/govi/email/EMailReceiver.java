@@ -50,7 +50,7 @@ public class EMailReceiver {
 	      properties.put("mail.smtp.host", "smtp.gmail.com");
 	      properties.put("mail.smtp.socketFactory.port", "465");
 	      properties.put("mail.user", "govind.avireddi");
-	      properties.put("mail.password", "MyBotKaAddress");
+	      properties.put("mail.password", "mypassword");
 	      properties.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");
 	      properties.put("mail.smtp.auth", "true");
 	      properties.put("mail.smtp.port", "465");
